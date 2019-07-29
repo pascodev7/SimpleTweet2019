@@ -13,6 +13,7 @@
 
     <android.support.v7.widget.RecyclerView
         android:id="@+id/rvTweets"
+        android:background="@drawable/background_2"
         android:layout_width="0dp"
         android:layout_height="0dp"
         app:layout_constraintBottom_toBottomOf="parent"
